@@ -2,7 +2,7 @@
 title: "Activity"
 layout: gridlay
 sitemap: false
-permalink: /Activity/
+permalink: /activity/
 ---
 
 <style>
