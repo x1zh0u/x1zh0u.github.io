@@ -27,7 +27,6 @@ contact: >
 
 # Pages shown in navbar
 nav_pages:
-  - name: news
   - name: research
   - name: activity
   - name: about
