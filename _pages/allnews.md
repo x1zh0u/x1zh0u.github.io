@@ -2,7 +2,7 @@
 title: "News"
 layout: textlay
 sitemap: false
-permalink: /allnews/
+permalink: /allnews.html
 ---
 
 ## News
