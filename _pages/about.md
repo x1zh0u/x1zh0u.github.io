@@ -223,7 +223,7 @@ China Agricultural University<br>
 
 - Clarinet
 - Dancing (Pop/Voguing/Waacking)
-- Aerobics
+- Jogging
 - Oil painting
 
 ##### *MBTI*
