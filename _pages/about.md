@@ -71,7 +71,7 @@ China Agricultural University<br>
 
 ------
 
-- Peng JJ, **Zhou X (co-first author)**, Rensing C, Liesack W, Zhu Y-G* (2024, Preprint) Soil microbial ecology through the lens of metatranscriptomics, Soil Ecology Letters.
+- Peng JJ, **Zhou X (co-first author)**, Rensing C, Liesack W, Zhu Y-G (2024, Preprint) Soil microbial ecology through the lens of metatranscriptomics, Soil Ecology Letters.
   
 - Wu XJ, Bei SK, **Zhou X**, Luo Y, He ZB, Song CX, Yuan HM, Pivato B, Liesack W, Peng JJ (2023) Metagenomic insights into genetic factors driving bacterial niche differentiation between bulk and rhizosphere soils, Science of The Total Environment.
   
@@ -101,7 +101,7 @@ China Agricultural University<br>
 
 - Microbiome Analysis: 16S rRNA (Qiime2, Dada2, phyloseq)
 - Genome-centric metagenomics: FastQC, Prodigal, Prokka, InterProScan, DIAMOND, HMMER, MEGAHIT, SPADES, metaBAT2, CONCOCT, CheckM, Bowtie2, CD-HIT, SAMtools, Kraken
-- Metatranscriptomics: Total-RNA-based and Double RNA-Approach, SortMeRNA, Trinity, RNASpades, bbduk
+- Metatranscriptomics: Total-RNA-based and Double-RNA-Approach, SortMeRNA, Trinity, RNASpades, bbduk
 - Viral Identification: Virsorter2, VIBRANT, DeepVirFinder, CheckV
 
 ***Laboratory skills***
@@ -123,13 +123,14 @@ China Agricultural University<br>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
+  
 #### WORKING EXPERIENCES
 
 ------
 
-##### **President, CAU Graduate Student Union** 
+##### **CAU Graduate Student Union** 
 
-*Responsible for scientific innovation (07/2023-Present)*
+*President, responsible for scientific innovation (07/2023-Present)*
 
 - Organized and hosted lectures, academic competitions, and events to enhance the academic and social environment for graduate students.
 
