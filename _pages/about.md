@@ -42,6 +42,24 @@ China Agricultural University<br>
 </div>
 </div>
 
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+
+#### EDUCATION
+
+------
+
+- **Master student in Plant Nutrition(2022-Exp.2024)**
+  College of Resources and Environmental Sciences (CRES), CAU, Beijing 
+
+- **Undergraduate student majoring in Plant Nutrition(2018-2022)**
+  College of Resources and Environmental Sciences (CRES), CAU, Beijing
+
+- **Undergraduate student minoring in Data Science and Big Data Technology(2020-2022)**
+  College of Information and Electrical Engineering (CIEE), CAU, Beijing
+
+</div>
+</div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -70,39 +88,11 @@ China Agricultural University<br>
 - Viral particals enrichment (mass extraction/ultracentrifugation)
 - Gel electrophoresis, QUBIT, agilent 2100 bioanalyzer
 
-##### ***Language***
+***Language***
 
 - Native: Mandarin, Cantonese
 - Near-native fluency: English (IELTS - 7.0)
 - Basic communication knowledge: Korean, Japanese
-
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-
-#### EDUCATION
-
-------
-
-- **Master student in Plant Nutrition**
-
-  College of Resources and Environmental Sciences (CRES), CAU, Beijing 
-
-  *09/2022-expected 06/2024*
-
-- **Undergraduate student majoring in Plant Nutrition**
-
-  College of Resources and Environmental Sciences (CRES), CAU, Beijing
-
-  *09/2018-06/2024*
-
-- **Undergraduate student minoring in Data Science and Big Data Technology**
-
-  College of Information and Electrical Engineering (CIEE), CAU, Beijing
-
-  *09/2020-06/2022*
 
 </div>
 </div>
