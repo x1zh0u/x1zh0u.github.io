@@ -71,11 +71,15 @@ China Agricultural University<br>
 
 ------
 
-- Peng JJ, ***Zhou X (co-first author)***, Rensing C, Liesack W, Zhu Y-G* (2024, Preprint) Soil microbial ecology through the lens of metatranscriptomics, Soil Ecology Letters.
-- Wu XJ, Bei SK, ***Zhou X***, Luo Y, He ZB, Song CX, Yuan HM, Pivato B, Liesack W, Peng JJ (2023) Metagenomic insights into genetic factors driving bacterial niche differentiation between bulk and rhizosphere soils, Science of The Total Environment.
-- ***Zhou X***, Peng JJ, Virological insights into the soil microbiome and arable land capacity enhancement. Workshop on the Microbiome of soil-crop systems and Productivity Improvement, College of Resources and Environmental Sciences, CAU, Beijing, China. November 11, 2023. (Oral presentation)
-- ***Zhou X***, Liesack W, Peng JJ, Metatranscriptomics resolves the detrimental impact of salt stress on the paddy soil methanogens into population-specific responses, The 11th Geomicrobiology Symposium, Chinese Society for Microbiology, Tianjin, China. June 9-11, 2023. (Poster, Best Poster Award)
-- ***Zhou X***, Peng JJ, Soil Metatranscriptomics: Opportunities and Challenges, Sino-European Microbial Omics Workshop for Young Scientist, Online. July 27, 2023. (Oral presentation)
+- Peng JJ, **Zhou X (co-first author)**, Rensing C, Liesack W, Zhu Y-G* (2024, Preprint) Soil microbial ecology through the lens of metatranscriptomics, Soil Ecology Letters.
+  
+- Wu XJ, Bei SK, **Zhou X**, Luo Y, He ZB, Song CX, Yuan HM, Pivato B, Liesack W, Peng JJ (2023) Metagenomic insights into genetic factors driving bacterial niche differentiation between bulk and rhizosphere soils, Science of The Total Environment.
+  
+- **Zhou X**, Peng JJ, Virological insights into the soil microbiome and arable land capacity enhancement. Workshop on the Microbiome of soil-crop systems and Productivity Improvement, College of Resources and Environmental Sciences, CAU, Beijing, China. November 11, 2023. (Oral presentation)
+  
+- **Zhou X**, Liesack W, Peng JJ, Metatranscriptomics resolves the detrimental impact of salt stress on the paddy soil methanogens into population-specific responses, The 11th Geomicrobiology Symposium, Chinese Society for Microbiology, Tianjin, China. June 9-11, 2023. (Poster, Best Poster Award)
+
+- **Zhou X**, Peng JJ, Soil Metatranscriptomics: Opportunities and Challenges, Sino-European Microbial Omics Workshop for Young Scientist, Online. July 27, 2023. (Oral presentation)
 
 </div>
 </div>
